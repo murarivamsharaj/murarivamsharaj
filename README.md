@@ -1,30 +1,28 @@
-<div align="center">
-  <h1>Hi there, I'm Chittipoola Murari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-</div>
+<!-- Animated Waving Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3178C6&height=220&section=header&text=Chittipoola%20Murari&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=75&descSize=22" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Microservices+Architecture+Enthusiast;Building+Scalable+SaaS+Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Building+Scalable+Microservices;Crafting+Event-Driven+Architectures;Turning+Ideas+into+Production-Ready+Software" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <em>Translating complex architectural challenges into production-ready software.</em>
-</div>
 <br/>
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently building **[CardPro AI](https://frontend-two-kohl-2uyfslpb5o.vercel.app)** - An AI-Powered Digital Visiting Card SaaS.
 - 🌱 I’m consistently exploring advanced **Event-Driven Architectures** and **Cloud Deployments**.
-- 💬 Ask me about **Java, Spring Boot, REST API design, and RabbitMQ**.
+- 💬 Ask me about **Java, Spring Boot, REST APIs, and RabbitMQ**.
 - 📫 Reach out to me at: **[chmurari73@gmail.com](mailto:chmurari73@gmail.com)**
 
 ---
 
 ### 🚀 Highlighted Project
+
 <div align="center">
-  <a href="https://github.com/murarivamsharaj/cardpro-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murarivamsharaj&repo=cardpro-ai&theme=radical&show_icons=true" alt="CardPro AI Repo Card" />
+  <a href="https://github.com/murarivamsharaj/CardPro-ai">
+    <!-- Fixed the capitalization here for CardPro-ai -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murarivamsharaj&repo=CardPro-ai&theme=radical&show_icons=true" alt="CardPro AI Repo Card" />
   </a>
 </div>
 
@@ -32,20 +30,21 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Backend & Cloud** <br/>
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Spring_Cloud-6DB33F?style=for-the-badge)
-
-**Frontend** <br/>
-![React](https://img.shields.io/badge/React-18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Database & DevOps** <br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" title="Spring Boot" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" title="Redis" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
+</div>
 
 ---
 
