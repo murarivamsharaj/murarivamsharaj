@@ -1,77 +1,57 @@
-<!-- Animated Waving Header Banner -->
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3178C6&height=220&section=header&text=Chittipoola%20Murari&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=75&descSize=22](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3178C6&height=220&section=header&text=Chittipoola%20Murari&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=75&descSize=22)" width="100%"/>
+<h1 align="center">Hi there, I'm Chittipoola Murari 👋</h1>
+<h3 align="center">Java Full Stack Developer | Microservices Enthusiast</h3>
 
-<div align="center">
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Building+Scalable+Microservices;Crafting+Event-Driven+Architectures;Turning+Ideas+into+Production-Ready+Software](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Building+Scalable+Microservices;Crafting+Event-Driven+Architectures;Turning+Ideas+into+Production-Ready+Software)" alt="Typing SVG" />
+<p align="center">
+  <em>Translating complex architectural challenges into production-ready software.</em>
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 I’m currently building **[CardPro AI](https://frontend-two-kohl-2uyfslpb5o.vercel.app)** - An AI-Powered Digital Visiting Card SaaS.
+- 🌱 I’m consistently exploring advanced **Event-Driven Architectures** and **Cloud Deployments**.
+- 💬 Ask me about **Java, Spring Boot, REST API design, and RabbitMQ**.
+- 📫 Reach out to me at: **[chmurari73@gmail.com](mailto:chmurari73@gmail.com)**
+
+---
+
+### 🚀 Highlighted Project
+<p align="center">
+  <a href="https://github.com/murarivamsharaj/cardpro-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murarivamsharaj&repo=cardpro-ai&theme=radical&show_icons=true" alt="CardPro AI Repo Card" />
   </a>
-</div>
-
-<br/>
-
-### 👨‍💻 `murari.json`
-```json
-{
-  "current_project": {
-    "name": "CardPro AI",
-    "description": "AI-Powered Digital Visiting Card SaaS",
-    "link": "https://frontend-two-kohl-2uyfslpb5o.vercel.app",
-    "status": "In Development 🚀"
-  },
-  "focus_areas": [
-    "Event-Driven Architectures",
-    "Microservices Decompositions",
-    "Cloud Deployments"
-  ],
-  "ask_me_about": ["Java", "Spring Boot", "RabbitMQ", "React"],
-  "contact": "chmurari73@gmail.com"
-}
-```
+</p>
 
 ---
 
-### 🚀 `highlighted_project`
-<div align="center">
-  <a href="[https://github.com/murarivamsharaj/CardPro-ai](https://github.com/murarivamsharaj/CardPro-ai)">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=murarivamsharaj&repo=CardPro-ai&theme=tokyonight&show_icons=true](https://github-readme-stats.vercel.app/api/pin/?username=murarivamsharaj&repo=CardPro-ai&theme=tokyonight&show_icons=true)" alt="CardPro AI Repo Card" />
-  </a>
-</div>
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Microservices-Spring_Cloud-6DB33F?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/React-18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-15-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/RabbitMQ-3-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
-### 🛠️ `tech_stack_modules`
-<div align="center">
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=java,spring,react,ts,postgres,redis,rabbitmq,docker,git,github,postman,idea&perline=6](https://skillicons.dev/icons?i=java,spring,react,ts,postgres,redis,rabbitmq,docker,git,github,postman,idea&perline=6)" alt="Tech Stack Icons"/>
-  </a>
-</div>
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murarivamsharaj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murarivamsharaj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-### 🏆 `github_achievements`
-<div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=murarivamsharaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15](https://github-profile-trophy.vercel.app/?username=murarivamsharaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-### 📈 `system_analytics`
-<div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=murarivamsharaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=murarivamsharaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" alt="GitHub Stats" width="48%" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=murarivamsharaj&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=murarivamsharaj&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Languages" width="48%" />
-</div>
-
----
-
-<div align="center">
-  <a href="[https://linkedin.com/in/murari-ch](https://linkedin.com/in/murari-ch)" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/murari-ch" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:chmurari73@gmail.com">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-<br/>
-<div align="center">
-  <img src="[https://komarev.com/ghpvc/?username=murarivamsharaj&color=3178C6&style=for-the-badge&label=SYSTEM+VISITS](https://komarev.com/ghpvc/?username=murarivamsharaj&color=3178C6&style=for-the-badge&label=SYSTEM+VISITS)" alt="Profile Views" />
-</div>
+</p>
