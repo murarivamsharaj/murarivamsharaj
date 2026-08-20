@@ -1,11 +1,14 @@
-<h1 align="center">Hi there, I'm Chittipoola Murari 👋</h1>
-<h3 align="center">Java Full Stack Developer | Microservices Enthusiast</h3>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3178C6&height=220&section=header&text=Chittipoola%20Murari&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=75&descSize=22" width="100%"/>
 
-<p align="center">
-  <em>Translating complex architectural challenges into production-ready software.</em>
-</p>
+<!-- Rolling Taglines -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Building+Scalable+Microservices;Crafting+Event-Driven+Architectures;Turning+Ideas+into+Production-Ready+Software" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<br/>
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently building **[CardPro AI](https://frontend-two-kohl-2uyfslpb5o.vercel.app)** - An AI-Powered Digital Visiting Card SaaS.
@@ -16,11 +19,11 @@
 ---
 
 ### 🚀 Highlighted Project
-<p align="center">
+<div align="center">
   <a href="https://github.com/murarivamsharaj/cardpro-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=murarivamsharaj&repo=cardpro-ai&theme=radical&show_icons=true" alt="CardPro AI Repo Card" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -39,10 +42,10 @@
 ---
 
 ### 📈 GitHub Analytics
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murarivamsharaj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murarivamsharaj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+</div>
 
 ---
 
