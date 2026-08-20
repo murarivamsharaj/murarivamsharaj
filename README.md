@@ -20,8 +20,8 @@
 
 ### 🚀 Highlighted Project
 <div align="center">
-  <a href="https://github.com/murarivamsharaj/cardpro-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murarivamsharaj&repo=cardpro-ai&theme=radical&show_icons=true" alt="CardPro AI Repo Card" />
+  <a href="https://github.com/murarivamsharaj/CardPro-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murarivamsharaj&repo=CardPro-ai&theme=radical&show_icons=true" alt="CardPro AI Repo Card" />
   </a>
 </div>
 
@@ -46,7 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=murarivamsharaj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murarivamsharaj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
-
 ---
 
 ### 📫 Connect With Me
