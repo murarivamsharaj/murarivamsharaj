@@ -20,10 +20,14 @@
 
 ### 🚀 Highlighted Project
 
-> **[CardPro AI: AI-Powered Digital Visiting Card SaaS](https://github.com/murarivamsharaj/CardPro-ai)**
-> *An independent microservices architecture built with asynchronous payment webhooks via Razorpay and JWT authentication.*
+> ### **[CardPro AI — AI-Powered Digital Visiting Card SaaS](https://frontend-two-kohl-2uyfslpb5o.vercel.app)**
+> *An independent microservices-based SaaS platform designed to create, manage, and share smart digital business cards with seamless AI features.*
 > 
-> 🔗 **[View Live Demo](https://frontend-two-kohl-2uyfslpb5o.vercel.app)** | 👨‍💻 **[View Source Code](https://github.com/murarivamsharaj/CardPro-ai)**
+> * **Architecture:** Distributed Microservices with asynchronous communication and Spring Cloud.
+> * **Backend & Core:** Java 21, Spring Boot 3, PostgreSQL, Redis, and RabbitMQ for event-driven message queuing.
+> * **Frontend:** React 18, TypeScript, and modern responsive styling.
+> 
+> 🔗 **[View Live Application](https://frontend-two-kohl-2uyfslpb5o.vercel.app)** &nbsp;&bull;&nbsp; 📂 **[Explore Source Code](https://github.com/murarivamsharaj/CardPro-ai)**
 
 ---
 
