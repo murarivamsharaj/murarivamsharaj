@@ -19,11 +19,11 @@
 ---
 
 ### 🚀 Highlighted Project
-<div align="center">
-  <a href="https://github.com/murarivamsharaj/CardPro-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=murarivamsharaj&repo=CardPro-ai&theme=radical&show_icons=true" alt="CardPro AI Repo Card" />
-  </a>
-</div>
+
+> **[CardPro AI: AI-Powered Digital Visiting Card SaaS](https://github.com/murarivamsharaj/CardPro-ai)**
+> *An independent microservices architecture built with asynchronous payment webhooks via Razorpay and JWT authentication.*
+> 
+> 🔗 **[View Live Demo](https://frontend-two-kohl-2uyfslpb5o.vercel.app)** | 👨‍💻 **[View Source Code](https://github.com/murarivamsharaj/CardPro-ai)**
 
 ---
 
@@ -39,13 +39,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
-
-### 📈 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murarivamsharaj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murarivamsharaj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 ---
 
 ### 📫 Connect With Me
